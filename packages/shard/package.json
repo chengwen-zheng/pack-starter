@@ -1,5 +1,5 @@
 {
-  "name": "@pack-starter/tapable-starter",
+  "name": "@pack-starter/shard",
   "type": "module",
   "version": "0.0.0",
   "keywords": [],
@@ -36,10 +36,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "tapable": "^2.2.1"
   },
   "devDependencies": {
-    "@types/tapable": "^2.2.7"
   }
 
 }
